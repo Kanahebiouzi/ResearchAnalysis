@@ -1,0 +1,14 @@
+cycler==0.10.0
+igor==0.3
+kiwisolver==1.0.1
+matplotlib==2.2.2
+numpy==1.14.2
+pkg-resources==0.0.0
+pyparsing==2.2.0
+PyQt5==5.10.1
+pyqtgraph==0.10.0
+python-dateutil==2.7.2
+pytz==2018.4
+scipy==1.0.0
+sip==4.19.8
+six==1.11.0
